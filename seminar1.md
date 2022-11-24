@@ -1,4 +1,4 @@
-## Git education
+## Git education. Commits
 
 * *git init* - это команда инициализирующая репозиторий;
 * *git add* - добавить измененный файл к отслеживанию;
